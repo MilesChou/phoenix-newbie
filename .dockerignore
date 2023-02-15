@@ -1,0 +1,12 @@
+# IDE files
+.idea
+*.iml
+
+# compiled files
+_build
+deps
+
+# Docker files
+.dockerignore
+Dockerfile
+Makefile
